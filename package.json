@@ -12,7 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "@apollo/client": "^3.6.1",
-    "graphql-ws": "^5.8.1"
+    "graphql-ws": "^5.8.1",
+    "lorem-ipsum": "^2.0.4"
   },
   "devDependencies": {
     "babel-loader": "^8.2.5",
